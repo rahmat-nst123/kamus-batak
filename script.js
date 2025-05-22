@@ -2,6 +2,7 @@ const kataList = [
   { kata: "Horas", arti: "Salam sejahtera", contoh: "Horas, apa kabar?" },
   { kata: "Bagas", arti: "Anak laki-laki", contoh: "Bagas sedang bermain di luar." },
   { kata: "Tondi", arti: "Roh jiwa", contoh: "Tondi seseorang tidak bisa dilihat, tapi ada di dalam dirinya." }
+  { kata: "dalan", arti: "jalan" }
 ];
 
 const kamusContainer = document.getElementById("kamus");
